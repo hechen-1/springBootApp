@@ -1,0 +1,6 @@
+
+server:
+  servlet:
+#    context-path  '/api'  公共路由配置
+    context-path: /api
+  port: 9090
